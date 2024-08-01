@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xyangya.github.io/manifest.json</loc>
+    
+    <lastmod>2024-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xyangya.github.io/music/index.html</loc>
+    
+    <lastmod>2024-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xyangya.github.io/posts/4a17b156.html</loc>
+    
+    <lastmod>2024-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xyangya.github.io/posts/82734d8.html</loc>
+    
+    <lastmod>2024-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xyangya.github.io/posts/b27d61c4.html</loc>
+    
+    <lastmod>2024-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xyangya.github.io/posts/9520183a.html</loc>
+    
+    <lastmod>2024-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xyangya.github.io/posts/dac4bd98.html</loc>
     
     <lastmod>2024-08-01</lastmod>
@@ -13,34 +67,7 @@
   <url>
     <loc>https://xyangya.github.io/posts/40b5542a.html</loc>
     
-    <lastmod>2024-07-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xyangya.github.io/posts/b27d61c4.html</loc>
-    
-    <lastmod>2024-07-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xyangya.github.io/posts/4a17b156.html</loc>
-    
-    <lastmod>2024-07-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xyangya.github.io/posts/9520183a.html</loc>
-    
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-08-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,34 +76,7 @@
   <url>
     <loc>https://xyangya.github.io/posts/26b9d431.html</loc>
     
-    <lastmod>2024-07-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xyangya.github.io/posts/82734d8.html</loc>
-    
-    <lastmod>2024-07-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xyangya.github.io/music/index.html</loc>
-    
-    <lastmod>2024-07-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xyangya.github.io/manifest.json</loc>
-    
-    <lastmod>2024-07-15</lastmod>
+    <lastmod>2024-08-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
