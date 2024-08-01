@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>SpringBoot</title>
+      <link href="/posts/0.html"/>
+      <url>/posts/0.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="SpringBoot"><a href="#SpringBoot" class="headerlink" title="SpringBoot"></a>SpringBoot</h1><h2 id="1-SpringBoot-简介"><a href="#1-SpringBoot-简介" class="headerlink" title="1. SpringBoot 简介"></a>1. SpringBoot 简介</h2><p>Spring Boot 是由 Pivotal 团队提供的全新框架，其设计目的是用来简化新 Spring 应用的初始搭建以及开发过程。该框架使用了特定的方式来进行配置，从而使开发人员不再需要定义样板化的 XML 文件。通过少量的注解，开发人员可以快速的开发出功能完备的应用。</p><h5 id="快速上手"><a href="#快速上手" class="headerlink" title="快速上手"></a>快速上手</h5><p>Spring Boot 可以快速的为新项目生成一个基础的项目结构，并为项目添加必要的依赖。只需要创建一个空的 Maven 项目，然后添加 Spring Boot 的依赖，并在 pom.xml 文件中添加 Spring Boot 插件。</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.boot<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-boot-starter-web<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure><p>然后在启动类上添加@SpringBootApplication 注解，Spring Boot 的启动器会自动配置 Spring 和 Spring MVC。</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">@SpringBootApplication</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Application</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">        SpringApplication.run(Application.class, args);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>最后，创建一个 Controller 类，并添加一个简单的 RESTful 接口。</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">@RestController</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">HelloController</span> &#123;</span><br><span class="line">    <span class="meta">@GetMapping(&quot;/hello&quot;)</span></span><br><span class="line">    <span class="keyword">public</span> String <span class="title function_">hello</span><span class="params">()</span> &#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;Hello, Spring Boot!&quot;</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>mysql</title>
       <link href="/posts/9520183a.html"/>
       <url>/posts/9520183a.html</url>
@@ -135,7 +148,7 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="音乐馆"><a href="#音乐馆" class="headerlink" title="音乐馆"></a>音乐馆</h1><h2 id="欢迎来到碳烤小肥杨の音乐馆"><a href="#欢迎来到碳烤小肥杨の音乐馆" class="headerlink" title="欢迎来到碳烤小肥杨の音乐馆"></a>欢迎来到碳烤小肥杨の音乐馆</h2><p>在这欣赏音乐，享受音乐给心灵带来的宁静。</p>    <div id="aplayer-gLRknacd" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="6869248510" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="400px" data-preload="auto" data-theme="#ad7a86"    ></div> ]]></content>
+        <content type="html"><![CDATA[<h1 id="音乐馆"><a href="#音乐馆" class="headerlink" title="音乐馆"></a>音乐馆</h1><h2 id="欢迎来到碳烤小肥杨の音乐馆"><a href="#欢迎来到碳烤小肥杨の音乐馆" class="headerlink" title="欢迎来到碳烤小肥杨の音乐馆"></a>欢迎来到碳烤小肥杨の音乐馆</h2><p>在这欣赏音乐，享受音乐给心灵带来的宁静。</p>    <div id="aplayer-ZexSVlSW" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="6869248510" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="400px" data-preload="auto" data-theme="#ad7a86"    ></div> ]]></content>
       
     </entry>
     
